@@ -470,7 +470,7 @@ Badania pokazują, że treści wzbudzające strach lub oburzenie są udostępnia
 ---
 # Mechanizmy uzlaeżniające
 #### Projektowanie pod zaangażowanie
-	- Nieskończoący się scroll
+	- Nieskończący się scroll
 	- Zmienna częstotliwość nagród
 	- Powiadomienia jako wyzwalacze
 	- FOMO (Fear of Missing Out)
@@ -688,7 +688,7 @@ To tworzy idealne środowisko dla dezinformacji:
 	- Skracanie czasu koncentracji
 	- Preferowanie szybkich bodźców
 	- Zmniejszanie krytycznego myślenia
-	- Podatność na manippulację
+	- Podatność na manipulację
 
 Komentarz:
 Media społecznościowe i współczesne technologie nie tylko zmieniają sposób konsumpcji informacji, ale dosłownie przeprogramowują nasze mózgi. To neurologiczne i poznawcze zmiany mają głębokie konsekwencje dla naszej odporności na dezinformację.
